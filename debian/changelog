@@ -1,4 +1,10 @@
-xgcalendar (0~vcs20140718) UNRELEASED; urgency=medium
+xgcalendar (0~vcs20140718.1) unstable; urgency=medium
+
+  * Fix target dir.
+
+ -- Jean-Michel Nirgal Vourgère <jmv_deb@nirgal.com>  Fri, 19 Dec 2014 17:05:42 +0100
+
+xgcalendar (0~vcs20140718) unstable; urgency=medium
 
   * Initial release.
 
