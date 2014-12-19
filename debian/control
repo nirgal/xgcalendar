@@ -1,0 +1,17 @@
+Source: xgcalendar
+Section: net
+Priority: optional
+Maintainer: Jean-Michel Nirgal Vourgère <jmv_deb@nirgal.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://www.web-delicious.com/jquery-plugins/
+Vcs-Git: https://github.com/nirgal/xgcalendar.git
+Vcs-Browser: https://github.com/nirgal/xgcalendar
+
+Package: javascript-xgcalendar
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: javascript-common
+Description: Javascript library providing a google like calendar
+ google like calendar js control a jQuery plugin that enables us to create an
+ event calendar that functions similar to the popular Google Calendar.
