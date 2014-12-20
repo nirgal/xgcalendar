@@ -1,5 +1,5 @@
 Source: xgcalendar
-Section: net
+Section: web
 Priority: optional
 Maintainer: Jean-Michel Nirgal Vourgère <jmv_deb@nirgal.com>
 Build-Depends: debhelper (>= 9)
@@ -8,7 +8,7 @@ Homepage: http://www.web-delicious.com/jquery-plugins/
 Vcs-Git: https://github.com/nirgal/xgcalendar.git
 Vcs-Browser: https://github.com/nirgal/xgcalendar
 
-Package: javascript-xgcalendar
+Package: libjs-xgcalendar
 Architecture: all
 Depends: ${misc:Depends}
 Recommends: javascript-common

@@ -1,3 +1,13 @@
+xgcalendar (0+vcs20140718-1) UNRELEASED; urgency=medium
+
+  * Rename binary package for libjs-xgcalendar.
+  * Switch to source format quilt.
+  * d/control: Change section to web.
+  * Added doc.
+  * Added examples.
+
+ -- Jean-Michel Nirgal Vourgère <jmv_deb@nirgal.com>  Sat, 20 Dec 2014 11:57:22 +0100
+
 xgcalendar (0~vcs20140718.1) unstable; urgency=medium
 
   * Fix target dir.
