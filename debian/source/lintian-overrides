@@ -1,0 +1,9 @@
+# See d/missing-sources
+source-is-missing example/python/javascripts/jquery.js
+source-is-missing example/php/static/javascripts/jquery.js
+source-is-missing example/aspnet/AzureCalendarMvcWeb/Javascripts/jquery.js
+source-is-missing example/aspnet/AzureCalendarMvcWeb/Javascripts/Plugins/xgcalendar.min.js
+source-is-missing example/python/javascripts/Plugins/jquery.calendar.min.js
+source-is-missing example/php-newstyle/static/js/lib/jquery/1.6/jquery.js
+source-is-missing example/nodejs/static/js/lib/jquery/1.6/jquery.js
+

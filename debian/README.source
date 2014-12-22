@@ -1,0 +1,11 @@
+example/python/javascripts/jquery.js source is at debian/missing-sources/jquery.1.3.2.js
+example/php/static/javascripts/jquery.js source is at debian/missing-sources/jquery.1.3.2.js
+example/aspnet/AzureCalendarMvcWeb/Javascripts/jquery.js source is at debian/missing-sources/jquery.1.3.2.js
+
+example/aspnet/AzureCalendarMvcWeb/Javascripts/Plugins/xgcalendar.min.js source is at code/js/plugin/xgcalendar.js
+example/python/javascripts/Plugins/jquery.calendar.min.js source is at code/js/plugin/xgcalendar.js
+
+example/php-newstyle/static/js/lib/jquery/1.6/jquery.js source is at debian/missing-sources/jquery.1.6.js
+example/nodejs/static/js/lib/jquery/1.6/jquery.js source is at debian/missing-sources/jquery.1.6.js
+
+easydrag.js is close to debian/missing-sources/jquery.easydrag.handler.beta2.js, but there is a little something more, like "Direction"
