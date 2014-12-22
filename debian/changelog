@@ -1,5 +1,6 @@
-xgcalendar (0+vcs20140718-1) UNRELEASED; urgency=medium
+xgcalendar (0+vcs20141222-1) UNRELEASED; urgency=medium
 
+  * New upstream snapshot
   * Rename binary package for libjs-xgcalendar.
   * Switch to source format quilt.
   * d/control: Change section to web.
