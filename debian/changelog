@@ -1,4 +1,4 @@
-xgcalendar (0+vcs20141223-1) UNRELEASED; urgency=medium
+xgcalendar (0+vcs20141223-1) unstable; urgency=medium
 
   * New upstream snapshot
   * Rename binary package for libjs-xgcalendar.
@@ -7,7 +7,7 @@ xgcalendar (0+vcs20141223-1) UNRELEASED; urgency=medium
   * Added doc.
   * Added examples.
 
- -- Jean-Michel Nirgal Vourgère <jmv_deb@nirgal.com>  Sat, 20 Dec 2014 11:57:22 +0100
+ -- Jean-Michel Nirgal Vourgère <jmv_deb@nirgal.com>  Tue, 23 Dec 2014 12:44:45 +0100
 
 xgcalendar (0~vcs20140718.1) unstable; urgency=medium
 
