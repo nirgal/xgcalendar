@@ -1,3 +1,9 @@
+xgcalendar (0+vcs20150407+nirgal-1) unstable; urgency=medium
+
+  * New upstream snapshot, from issue_24 branch.
+
+ -- Jean-Michel Nirgal Vourgère <jmv_deb@nirgal.com>  Tue, 07 Apr 2015 14:56:41 +0200
+
 xgcalendar (0+vcs20150107-1) unstable; urgency=medium
 
   * New upstream snapshot
